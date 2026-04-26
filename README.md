@@ -11,4 +11,4 @@
 
 ## Platform
 - LeetCode
-  -GFG
+- GFG
