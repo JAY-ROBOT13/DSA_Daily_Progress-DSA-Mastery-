@@ -15,11 +15,12 @@
 - Day 9
 - Day 10
 - Day 11
-- Day 12
+- Day 12  A
 - Day 13
 - Day 14
 - Day 15
 - Day 16
+- Day 17
 ## Topics Covered
 - Arrays
 
