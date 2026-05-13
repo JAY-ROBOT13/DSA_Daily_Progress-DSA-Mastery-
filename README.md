@@ -1,7 +1,7 @@
-# DSA Daily Practice 🚀
+# DSA Daily Practice 
 
-📅 Started: April 2026  
-🎯 Goal: 300+ Problems  
+- Started: April 2026  
+- Goal: 300+ Problems  
 
 ## Progress
 - Day 1
