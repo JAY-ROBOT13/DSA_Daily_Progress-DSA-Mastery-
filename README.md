@@ -17,8 +17,8 @@
 - Day 11
 - Day 12  
 - Day 13  
-- Day 14  A
-- Day 15
+- Day 14 
+- Day 15   A
 - Day 16
 - Day 17
 - Day 18
