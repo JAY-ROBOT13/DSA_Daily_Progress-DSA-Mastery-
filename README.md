@@ -20,8 +20,8 @@
 - Day 14 
 - Day 15   
 - Day 16  
-- Day 17 A
-- Day 18
+- Day 17 
+- Day 18 A
 - Day 19
 - Day 20
 - Day 21
@@ -42,7 +42,8 @@
 - Day 36
 - Day 37
 - Day 38
-- Day 39
+- Day 40
+- Da
 ## Topics Covered
 - Arrays
 
