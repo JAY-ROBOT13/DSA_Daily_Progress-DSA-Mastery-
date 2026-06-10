@@ -28,9 +28,9 @@
 - Day 22 
 - Day 23 
 - Day 24
-- Day 25 A
+- Day 25 
 - Day 26
-- Day 27
+- Day 27 A
 - Day 28
 - Day 29
 - Day 30
