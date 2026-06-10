@@ -46,6 +46,7 @@
 - Day 41
 - Day 42
 - Day 43
+- DAY 44
 ## Topics Covered
 - Arrays
 
