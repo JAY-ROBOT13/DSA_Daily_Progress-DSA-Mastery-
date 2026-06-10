@@ -26,9 +26,9 @@
 - Day 20
 - Day 21
 - Day 22 
-- Day 23 A
+- Day 23 
 - Day 24
-- Day 25
+- Day 25 A
 - Day 26
 - Day 27
 - Day 28
@@ -45,6 +45,7 @@
 - Day 40
 - Day 41
 - Day 42
+- Day 43
 ## Topics Covered
 - Arrays
 
