@@ -30,8 +30,8 @@
 - Day 24
 - Day 25 
 - Day 26
-- Day 27 A
-- Day 28
+- Day 27 
+- Day 28 A
 - Day 29
 - Day 30
 - Day 31
@@ -49,6 +49,7 @@
 - DAY 44
 - Day 45
 - Day 46
+- Day 47
 ## Topics Covered
 - Arrays
 
