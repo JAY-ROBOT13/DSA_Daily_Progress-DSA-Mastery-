@@ -34,9 +34,9 @@
 - Day 28 
 - Day 29
 - Day 30
-- Day 31 A
+- Day 31 
 - Day 32
-- Day 33
+- Day 33  A
 - Day 34
 - Day 35
 - Day 36
