@@ -36,8 +36,8 @@
 - Day 30
 - Day 31 
 - Day 32
-- Day 33  A
-- Day 34
+- Day 33  
+- Day 34  A
 - Day 35
 - Day 36
 - Day 37
@@ -53,6 +53,7 @@
 - Day 48
 - Day 49
 - Day 50
+- Day 51
 ## Topics Covered
 - Arrays
 
