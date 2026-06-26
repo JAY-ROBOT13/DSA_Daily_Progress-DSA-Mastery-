@@ -41,8 +41,8 @@
 - Day 35  
 - Day 36  
 - Day 37  
-- Day 38
-- Day 39   A
+- Day 38  A
+- Day 39   
 - Day 40
 - Day 41
 - Day 42
@@ -62,6 +62,7 @@
 - Day 56
 - Day 57
 - Day 58
+- Day 59
 ## Topics Covered
 - Arrays
 
