@@ -41,9 +41,9 @@
 - Day 35  
 - Day 36  
 - Day 37  
-- Day 38  A
+- Day 38  
 - Day 39   
-- Day 40
+- Day 40  A
 - Day 41
 - Day 42
 - Day 43
