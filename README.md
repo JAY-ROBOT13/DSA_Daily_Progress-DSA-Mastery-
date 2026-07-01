@@ -70,6 +70,7 @@
 - Day 64
 ## Topics Covered
 - Arrays
+- String
 
 ## Platform
 - LeetCode
