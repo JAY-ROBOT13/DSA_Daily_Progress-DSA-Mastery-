@@ -48,8 +48,8 @@
 - Day 42   
 - Day 43  
 - DAY 44
-- Day 45  A
-- Day 46
+- Day 45  
+- Day 46  A
 - Day 47
 - Day 48
 - Day 49
@@ -68,6 +68,7 @@
 - Day 62
 - Day 63
 - Day 64
+- Day 65
 ## Topics Covered
 - Arrays
 - String
