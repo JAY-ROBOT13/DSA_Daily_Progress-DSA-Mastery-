@@ -55,8 +55,8 @@
 - Day 49  
 - Day 50
 - Day 51
-- Day 52  A
-- Day 53
+- Day 52  
+- Day 53  A
 - Day 54
 - Day 55
 - Day 56
@@ -72,6 +72,7 @@
 - Day 66
 - Day 67
 - Day 68
+- Day 69
 ## Topics Covered
 - Arrays
 - String
