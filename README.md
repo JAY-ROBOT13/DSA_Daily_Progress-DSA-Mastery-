@@ -60,9 +60,9 @@
 - Day 54
 - Day 55  
 - Day 56  
-- Day 57  A
-- Day 58
-- Day 59
+- Day 57  
+- Day 58  
+- Day 59  A
 - Day 60
 - Day 61
 - Day 62
@@ -76,6 +76,7 @@
 - Day 70
 - Day 71
 - Day 72
+- Day 73
 ## Topics Covered
 - Arrays
 - String
