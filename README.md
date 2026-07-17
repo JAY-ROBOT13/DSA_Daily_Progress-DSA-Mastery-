@@ -67,9 +67,9 @@
 - Day 61  
 - Day 62  
 - Day 63
-- Day 64  A
+- Day 64  
 - Day 65
-- Day 66
+- Day 66  A
 - Day 67
 - Day 68
 - Day 69
@@ -80,6 +80,7 @@
 - Day 74
 - Day 75
 - Day 76
+- Day 77
 ## Topics Covered
 - Arrays
 - String
