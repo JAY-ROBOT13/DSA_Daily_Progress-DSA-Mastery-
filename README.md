@@ -77,14 +77,15 @@
 - Day 71
 - Day 72  
 - Day 73
-- Day 74  A
+- Day 74  
 - Day 75
-- Day 76
+- Day 76  A
 - Day 77
 - Day 78
 - Day 79
 - Day 80
 - Day 81
+- Day 82
 ## Topics Covered
 - Arrays
 - String
