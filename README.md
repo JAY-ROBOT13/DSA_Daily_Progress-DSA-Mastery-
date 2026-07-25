@@ -83,11 +83,12 @@
 - Day 77
 - Day 78  
 - Day 79
-- Day 80  A
-- Day 81
+- Day 80  
+- Day 81 A
 - Day 82
 - Day 83
 - Day 84
+- Day 85
 ## Topics Covered
 - Arrays
 - String
