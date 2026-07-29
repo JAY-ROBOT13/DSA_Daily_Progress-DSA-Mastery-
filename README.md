@@ -90,8 +90,9 @@
 - Day 84
 - Day 85  
 - Day 86  
-- Day 87  A
+- Day 87  
 - Day 88
+- Day 89  A
 ## Topics Covered
 - Arrays
 - String
