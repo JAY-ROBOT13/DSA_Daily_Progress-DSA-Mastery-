@@ -97,10 +97,11 @@
 - Day 91
 - Day 92
 - Day 93
-- Day 94
+- Day 94  A
 - Day 95
 - Day 96
 - Day 97
+- Day 98
 ## Topics Covered
 - Arrays
 - String
