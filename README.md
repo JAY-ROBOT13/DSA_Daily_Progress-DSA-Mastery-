@@ -104,6 +104,7 @@
 - Day 98
 - Day 99
 - Day 100
+- Day 101
 ## Topics Covered
 - Arrays
 - String
