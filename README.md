@@ -115,6 +115,7 @@
 - Day 109
 - Day 110
 - Day 111
+- Day 112
 ## Topics Covered
 - Arrays
 - String
